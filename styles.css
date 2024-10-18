@@ -1,0 +1,59 @@
+  *{
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 9 em;
+    background-image: url('ellipse-1-2.png');
+    background-repeat: no-repeat;
+  }
+  .big {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-size: 5em;
+    color: rgba(0, 0, 0, 1);
+  }
+  html {background-color: B5CBDB}
+  .sub{
+    font-size: 10em;
+  }
+  button {
+    all: unset;
+    cursor: pointer;
+  }
+  button {
+    position: absolute;
+    left: 0; /* Position the button on the left side */
+    margin-left: 20px;
+  }
+  h1 {
+      margin: 0 auto; /* Center the text horizontally */
+  }
+  #container1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adds space between sections */
+  }
+  #container2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adds space between sections */
+  }
+  #container3 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adds space between sections */
+  }
+  #container4 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adds space between sections */
+  }
+  #cog {
+    background: #00f;
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+  }
